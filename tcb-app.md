@@ -1,3 +1,9 @@
+---
+title: tcb - privacy policy
+layout: template
+filename: tcb-app.md
+--- 
+
 # Privacy Policy
 
 **Telugu Chronological Bible**
